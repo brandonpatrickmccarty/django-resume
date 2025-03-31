@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'https://django-resume-production-7910.up.railway.app', 'django-resume-production-7910.up.railway.app',
     'brandonmccarty.com', 'https://brandonmccarty.com', 'http://brandonmccarty.com',
+    'localhost',
 ]
 
 
