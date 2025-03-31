@@ -26,8 +26,7 @@ SECRET_KEY = 'django-insecure-4n3q+1svo^c@owyrrqiq)l9hzdtsk+uzifqp^35c_w&x_2hya_
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://django-resume-production-7910.up.railway.app',
-    'django-resume-production-7910.up.railway.app',
+    'https://django-resume-production-7910.up.railway.app', 'django-resume-production-7910.up.railway.app',
     'brandonmccarty.com', 'https://brandonmccarty.com', 'http://brandonmccarty.com',
 ]
 
